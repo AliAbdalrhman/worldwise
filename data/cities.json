@@ -25,18 +25,6 @@
       }
     },
     {
-      "id": "a91a",
-      "cityName": "La Gaude",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-04-04T09:01:00.456Z",
-      "notes": "",
-      "position": {
-        "lat": "43.723474896114794",
-        "lng": "7.163085937500001"
-      }
-    },
-    {
       "id": "7bfd",
       "cityName": "Kandersteg",
       "country": "Switzerland",
@@ -49,30 +37,6 @@
       }
     },
     {
-      "id": "51f7",
-      "cityName": "Le Magny",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-04-04T09:08:03.447Z",
-      "notes": "",
-      "position": {
-        "lat": "46.55886030311719",
-        "lng": "1.9335937500000002"
-      }
-    },
-    {
-      "id": "83ad",
-      "cityName": "Europe/Jersey",
-      "country": "Jersey",
-      "emoji": "🇯🇪",
-      "date": "2024-04-04T09:09:05.593Z",
-      "notes": "",
-      "position": {
-        "lat": "49.13859653703879",
-        "lng": "-2.1972656250000004"
-      }
-    },
-    {
       "id": "0f16",
       "cityName": "Lisbon",
       "country": "Portugal",
@@ -82,6 +46,18 @@
       "position": {
         "lat": "38.71123253895227",
         "lng": "-9.107666015625002"
+      }
+    },
+    {
+      "id": "934d",
+      "cityName": "Banha",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-04-04T09:35:40.699Z",
+      "notes": "My City",
+      "position": {
+        "lat": "30.44867367928756",
+        "lng": "31.190185546875004"
       }
     }
   ]
