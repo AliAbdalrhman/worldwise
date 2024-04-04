@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -34,7 +10,79 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "0e4d",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-04T09:00:39.570Z",
+      "notes": "",
+      "position": {
+        "lat": "42.48830197960227",
+        "lng": "1.40625"
+      }
+    },
+    {
+      "id": "a91a",
+      "cityName": "La Gaude",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-04T09:01:00.456Z",
+      "notes": "",
+      "position": {
+        "lat": "43.723474896114794",
+        "lng": "7.163085937500001"
+      }
+    },
+    {
+      "id": "7bfd",
+      "cityName": "Kandersteg",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-04-04T09:01:46.587Z",
+      "notes": "",
+      "position": {
+        "lat": "46.46813299215556",
+        "lng": "7.624511718750001"
+      }
+    },
+    {
+      "id": "51f7",
+      "cityName": "Le Magny",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-04T09:08:03.447Z",
+      "notes": "",
+      "position": {
+        "lat": "46.55886030311719",
+        "lng": "1.9335937500000002"
+      }
+    },
+    {
+      "id": "83ad",
+      "cityName": "Europe/Jersey",
+      "country": "Jersey",
+      "emoji": "🇯🇪",
+      "date": "2024-04-04T09:09:05.593Z",
+      "notes": "",
+      "position": {
+        "lat": "49.13859653703879",
+        "lng": "-2.1972656250000004"
+      }
+    },
+    {
+      "id": "0f16",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-04T09:26:46.540Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71123253895227",
+        "lng": "-9.107666015625002"
+      }
     }
   ]
 }
